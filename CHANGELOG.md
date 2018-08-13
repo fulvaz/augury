@@ -1,8 +1,11 @@
 # Change Log
 
+## [1.19.2](https://github.com/rangle/tree/1.17.1)
 * Bug fixes
-  - ([1322](https://github.com/rangle/augury/issues/1322))
-  - ([1319](https://github.com/rangle/augury/issues/1319))
+  - Check for null before checking .name property ([1322](https://github.com/rangle/augury/issues/1322))
+  - possible duplicate of 1322 ([1319](https://github.com/rangle/augury/issues/1319))
+* Dependency updates
+  - Update to CircleCI V2
 
 ## [1.19.0](https://github.com/rangle/tree/1.17.0)
 * Bug fixes (angularJS hybrid app compatibility, component tree refreshing, and more state panel issues)
